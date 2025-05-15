@@ -27,7 +27,7 @@ Supervised by **Engineer. Fatma Fawzy**
 ## 📄 Documentation
 
 > 📥 Download the full project report:  
-[Qalaqs UX Case Study PDF](https://drive.google.com/file/d/1gWeYI6liDBtTCoNlsvnOwauNIVA_Ce0i/view?usp=drive_link)
+[Qalaqs UI UX Case Study PDF](https://drive.google.com/file/d/1gWeYI6liDBtTCoNlsvnOwauNIVA_Ce0i/view?usp=drive_link)
 
 ---
 
