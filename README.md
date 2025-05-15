@@ -1,5 +1,3 @@
-# Qalaqs-smart-car-spare-parts
-
 # Qalaqs – Smart Car Spare Parts Platform 🚗
 
 Qalaqs is a mobile and web-based platform designed to streamline the process of searching for, purchasing, and receiving automobile spare parts.
